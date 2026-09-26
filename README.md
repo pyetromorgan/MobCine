@@ -16,4 +16,4 @@ O mesmo usuário deve criar uma conta ou se logar em uma caso ja tenha cadastro.
 ## Como executar:
 - Node.js instalado
 - Aplicativo **Expo Go** no celular (Android/iOS)
-- -Após isso clone o repositório
+- Após isso clone o repositório
